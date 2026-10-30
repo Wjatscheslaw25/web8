@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const statusDiv = document.getElementById('form-status');
 
     // Эндпоинт для отправки (замените на свой ключ formcarry.com)
-    const FORM_ENDPOINT = 'https://formcarry.com/s/ваш_уникальный_ключ';
+    const FORM_ENDPOINT = 'https://formcarry.com/s/gLxDSJ3_Net';
 
     // Поля формы для LocalStorage
     const fields = ['fullname', 'email', 'phone', 'organization', 'message'];
